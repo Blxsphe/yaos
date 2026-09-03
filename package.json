@@ -9,7 +9,7 @@
 		"typecheck": "tsc --noEmit"
 	},
 	"dependencies": {
-		"fflate": "^0.8.2",
+		"fflate": "^0.8.3",
 		"partyserver": "0.3.2",
 		"y-partyserver": "2.1.2",
 		"yjs": "^13.6.20"
